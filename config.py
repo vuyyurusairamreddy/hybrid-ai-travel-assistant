@@ -3,7 +3,7 @@
 # Neo4j
 NEO4J_URI = "neo4j+s://80cd8916.databases.neo4j.io"           # Or neo4j://… if preferred
 NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "5-45BoNOPR7zSHWaFUiEdxT-AFPGWypB_FgIhzUokJU"
+NEO4J_PASSWORD = "5-45BoNOPR7zSHWaFUiEdxT-AFPGWypB_FgIhzUokJU12"
 
 # Perplexity API (sonar / sonar-pro)
 # Endpoint uses OpenAI-compatible Chat Completions interface, POST /chat/completions
@@ -14,11 +14,11 @@ NEO4J_PASSWORD = "5-45BoNOPR7zSHWaFUiEdxT-AFPGWypB_FgIhzUokJU"
 LLM_PROVIDER = "gemini"  # Change to "perplexity" if needed
 
 # Gemini API (Google)
-GEMINI_API_KEY = "AIzaSyCYxLXe3U5w0gqj4tgXb0QLHd-g5qeb5wA"
+GEMINI_API_KEY = "AIzaSyCYxLXe3U5w0gqj4tgXb0QLHd-g5qeb5wA12"
 GEMINI_MODEL = "gemini-2.5-flash"  # or "gemini-1.5-pro" for better quality
 
 # Pinecone
-PINECONE_API_KEY = "pcsk_XCdXx_Ryo5h46oFN1SfQdvy4VduPFdd6LcAnH9DNxfk8r7965mvVAUEyW4Ttd9kP7gtRj"
+PINECONE_API_KEY = "pcsk_XCdXx_Ryo5h46oFN1SfQdvy4VduPFdd6LcAnH9DNxfk8r7965mvVAUEyW4Ttd9kP7gtRj12ac"
 PINECONE_INDEX_NAME = "vietnam-travel"
 PINECONE_CLOUD = "aws"                        # "aws" or "gcp"
 PINECONE_REGION = "us-east-1"                 # e.g., us-east-1 for AWS
